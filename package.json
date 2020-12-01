@@ -1,0 +1,25 @@
+{
+  "name": "js-project",
+  "version": "1.0.0",
+  "description": "candidate",
+  "main": "candi.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookieparser": "^0.1.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "express.js": "^1.0.0",
+    "js-project": "^1.0.3",
+    "logger": "0.0.1",
+    "mysql": "^2.18.1",
+    "node.js": "^0.0.1-security",
+    "nodemon": "^2.0.6",
+    "save": "^2.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
